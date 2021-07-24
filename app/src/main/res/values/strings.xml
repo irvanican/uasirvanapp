@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">QR Irvan Chandra</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fullname">Fullname</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="login">Login</string>
+    <string name="start">GET STARTED</string>
+    <string name="masuk">Masuk</string>
+    <string name="data_a">Data A</string>
+    <string name="data_b">Data B</string>
+    <string name="data_c">Data C</string>
+    <string name="data_d">Data D</string>
+    <string name="data_e">Data E</string>
+    <string name="data_f">Data F</string>
+    <string name="data_g">Data G</string>
+    <string name="select">Select Date</string>
+    <string name="save">Save</string>
+    <string name="input">Input Data</string>
+    <string name="Lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="get">Aplikasi Scan QRcode Dan Input Data Produksi</string>
+    <string name="underline">
+     <u>Create New Account</u>.
+    </string>
+    <string-array name="data_spinner">
+        <item>Data D</item>
+        <item>Data D2</item>
+        <item>Data D3</item>
+    </string-array>
+</resources>
